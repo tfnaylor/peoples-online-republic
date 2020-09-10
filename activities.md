@@ -10,10 +10,3 @@ Most, if not all, of the POR activities will be accomplished via its online plat
 
 ## Emigration guidance and assistance
 
-## Policies
-
-## Citizen code of conduct
-
-## Participation through voting
-
-## Transparency

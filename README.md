@@ -14,6 +14,8 @@ Read More...
 
 [Organizing Principals](organizing-principals.md)
 
+[Policies](policies.md)
+
 [Activities](activities.md)
 
 [Roadmap](roadmap.md)
