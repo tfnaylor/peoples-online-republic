@@ -10,3 +10,11 @@ Most, if not all, of the POR activities will be accomplished via its online plat
 
 ## Emigration guidance and assistance
 
+## Ambassadors
+
+POR Ambassadors will perform outreach and fundraising activities within certain groups likely to be receptive to the POR mission. These may include the following:
+
+* Health & Wellness
+* Cannabis Industry
+* Environmental Groups
+* Animal Rights Groups
