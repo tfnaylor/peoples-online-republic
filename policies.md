@@ -6,9 +6,9 @@
 
 POR Citizens are expected to uphold the [Organizing Principals](organizing-principals.md) while posting to social media and other forms of public behavior. Citizens found to be consistently and willfully behaving in ways incompatible to the values and mission of the POR will be banned.
 
-## Participation Through Voting
+## Consensus-Driven Evolution
 
-Virtually all activities of the POR - from building the online platform to making organizational and administrate decisions - will be subject to a majority consensus. 
+Virtually all activities of the POR - from building the online platform to making organizational and administrate decisions - will be subject to a majority consensus.
 
 ## Transparency
 
