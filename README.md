@@ -4,20 +4,22 @@
 
 ## Purpose
 
-The Peoples Online Republic (POR) is a non-profit organization that might be described as a virtual/online country. Rather than holding physical territory (land, borders, etc.), the POR holds and collectively manages online properties, including a social media platform and other related online services.
+The Peoples Online Republic (POR) is a non-profit organization that might best be described as a virtual/online country, founded on basic principals of social responsibility and civility. Rather than holding physical territory (land, borders, etc.), the POR holds and collectively manages online properties, collectively referred to as our [technology platform](platform.md).
 
 POR members are referred to as Citizens and must accept and adhere to the POR [Organizing Principals](organizing-principals.md) in order to maintain citizenship. POR Citizens are able to vote on initiatives, policies and online platform features using a simple online, majority rules system.
 
-POR citizens are united by their disgust and rejection of the current and evolving state of politics and societal norms, both in the United States and elsewhere. We seek to affect change and, where change is not possible, to relocate to physical countries that best align with our Organizing Principals.
+POR citizens are united by their rejection of the current and evolving state of politics and societal norms, both in the United States and elsewhere. Rather than agonize and complain about the rise of nationalism, intolerance and irrationality, we are channeling our energy towards affecting change. Where change is not possible, we will support migration to physical countries or regions that best align with our Organizing Principals.
 
-The POR does not seek to subvert, overthrow or disobey the laws or customs of any physical country. Rather, we demand that our citizens conform to all reasonable local laws and ordinances and seek to change those that are unreasonable – according to our [Organizing Principals](organizing-principals.md) – through available peaceful, democratic processes.
+The POR does not seek to subvert, overthrow or disobey the laws or customs of any physical country. Rather, we demand that our citizens conform to all reasonable local laws and ordinances and seek to change those that are unreasonable – according to our [Organizing Principals](organizing-principals.md) – through available peaceful, democratic processes. Where change is not feasible, we provide assistance and guidance for individuals to consider relocation to areas or countries where the local laws are more compatible with POR principals.
 
 ## Read More
 
 [Organizing Principals](organizing-principals.md)
 
+[Technology Platform](platform.md)
+
 [Policies](policies.md)
 
-[Activities](activities.md)
+[Ambassadors](ambassadors.md)
 
 [Roadmap](roadmap.md)
