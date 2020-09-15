@@ -4,7 +4,7 @@
 
 ## Purpose
 
-The Peoples Online Republic (POR) is a non-profit organization that might best be described as a virtual/online country, founded on basic principals of social responsibility and civility. Rather than holding physical territory (land, borders, etc.), the POR holds and collectively manages online properties, collectively referred to as our [technology platform](platform.md).
+The Peoples Online Republic (POR) is a non-profit organization that might best be described as a virtual/online nation, founded on basic principals of social responsibility and reason. Rather than holding physical territory (land, borders, etc.), the POR holds online properties, collectively referred to as our [technology platform](platform.md).
 
 POR members are referred to as Citizens and must accept and adhere to the POR [Organizing Principals](organizing-principals.md) in order to maintain citizenship. POR Citizens are able to vote on initiatives, policies and online platform features using a simple online, majority rules system.
 

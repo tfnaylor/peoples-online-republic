@@ -6,9 +6,10 @@ We hold that certain truths are self-evident and beyond debate. These are as fol
 
 1. Nationalism, populism and fascism are great evils and have no place in politics, government or society in general.
 2. Systemic racism exists and must be defeated.
-3. Policing must be reformed to prioritize conflict resolution and community building over the application of physical force.
-4. Any form of discrimination based on gender, sexual preference or orientation is abhorrent.
+3. Policing must be reformed to prioritize conflict resolution over physical force.
+4. LGBTQ rights are inseparable from human rights.
 5. A basic level of health care is a fundamental human right.
 6. Capitalism is an effective and generally beneficial economic model but must be constrained to avoid radical inequality and exploitation.
-7. Private gun ownership is unnecessary and a societal liability but where allowed is a privilege rather than a right.
-8. Propagation of unfounded and irrational conspiracy theories undermines the greater social fabric.
+7. Private gun ownership is unnecessary and a threat to civil society.
+8. Climate change is real and caused by human activity.
+9. Vaccinations are a safe and effective public health policy.
