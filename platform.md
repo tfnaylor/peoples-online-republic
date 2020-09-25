@@ -1,6 +1,8 @@
 # Technology Platform
 
-As a virtual nation, the People's Online Republic has as its foundation a technology platform that allows our Citizens to communicate, cooperate and forward our cause overall. We will not rely on existing platforms such as FaceBook, Twitter, etc. as we cannot trust or rely upon them to not censor, advertise or otherwise interfere with our society or objectives. The following sections will outline the basic technology platform components and services as initially envisioned. Of course these will grow, expand and evolve based on direct participation of our Citizens and not as a result of economic or other factors.
+As a virtual nation, the People's Online Republic has as its foundation a technology platform that allows our Citizens to communicate, cooperate and forward our cause overall. We will not depend on existing platforms such as FaceBook, Twitter, etc. as we cannot trust or rely upon them to not censor, advertise or otherwise interfere with our society or objectives.
+
+The following sections will outline the basic technology platform components and services as initially envisioned. Of course these will grow, expand and evolve based on direct participation of our Citizens and not as a result of economic or other factors.
 
 The technology platform services will be delivered via a mobile application and website (also mobile-enabled).
 
@@ -23,6 +25,10 @@ POR Citizens will have access a private, secure social media experience modeled 
 POR Citizens will be able to select products and services based on their standing as POR-approved businesses. Think here of Yelp or Angie's List where the available choices are owned by POR Citizens and are known to support the POR Organizing Principals.
 
 Aside from the convenience, this platform service is powerful in that it affects change. If businesses want to benefit from POR Citizen customers, they must accept and maintain POR compliance (just like individual Citizens do).
+
+## Employment Service
+
+POR Citizens can locate jobs with employers that are also Citizens. Additionally, employers can find employees that are POR Citizens.
 
 ## Host Country/Region Compatibility Matrix
 
